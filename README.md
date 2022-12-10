@@ -1,7 +1,7 @@
 # 2048
 
 This is the web version of the famous game 2048 using native JavaScript. In addition, HTML5/CSS3/SCSS technologies and BEM methodology were used.
-The web application is adapted for both desctop and touchscreen devices.
+The web application is adapted for both desktop and touchscreen devices.
 
 [DEMO LINK](https://mikhail-shchuka.github.io/game_2048_js/)
 
